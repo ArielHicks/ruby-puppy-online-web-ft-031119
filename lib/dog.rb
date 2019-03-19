@@ -18,7 +18,7 @@ class Dog
   end
 
   def self.all
-    puts "#{self.name\n}"
+    puts "#{self.name}"
   end
 
 end
